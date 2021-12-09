@@ -1,0 +1,54 @@
+
+
+
+.conteiner-cabecalho{
+  display: flex;
+  flex-direction: row;
+  padding-top: 2em;
+ margin-left: 12em;
+ margin-bottom: 5em;
+
+}
+
+.opition{
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.funções {
+  display: flex;
+  flex-direction: row;
+}
+
+.funções div {
+  margin-left: 2em;
+}
+
+.botoes {
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+  margin-left: 20em;
+
+
+}
+
+.botoes div {
+
+  margin-left: 2.5em;
+}
+
+
+
+.conta {
+
+  padding: 10px 15px 10px 15px;
+  border-radius: 100px;
+  background-color: #2E2D33;
+  cursor: pointer;
+}
+

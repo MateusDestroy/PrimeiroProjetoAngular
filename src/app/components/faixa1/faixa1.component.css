@@ -1,0 +1,42 @@
+
+
+.conteiner {
+  display: flex;
+  flex-direction: center;
+
+  margin-left: 18em;
+
+}
+
+
+img {
+  height: 566px;
+  width: 500px;
+}
+
+
+.informacao{
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 5em;
+  margin-left: 8em;
+
+}
+
+.texto {
+  padding-top: 10px;
+  padding-bottom: 15px;
+
+  font-size: 1.2em;
+
+  color: #c5c5c5;
+}
+
+.conteudo {
+
+  margin-right: 4em;
+  line-height: 1em;
+  color: white;
+  font-size: 4.5em;
+}
